@@ -1,11 +1,16 @@
 _repo: Prehistoric-Indians-of-the-Southwest_65822
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65822-h/images/cover.jpg
 creator:
   author:
     agent_name: Worthington, H. M.
     gutenberg_agent_id: '53512'
     url: http://www.gutenberg.org/2009/agents/53512
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65822#Prehistoric-Indians-of-the-Southwest
 gutenberg_issued: '2021-07-11'
 gutenberg_type: Text
 identifiers:
